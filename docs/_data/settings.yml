@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Personal
+  site_title: Samara Trilling
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -34,7 +34,7 @@ contact_settings:
 
 social_settings:
   facebook_url: ''
-  twitter_url: ''
+  twitter_url: 'https://twitter.com/samaratrilling'
   instagram_url: ''
   snapchat_url: ''
   youtube_url: ''
