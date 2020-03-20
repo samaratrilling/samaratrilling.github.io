@@ -14,23 +14,17 @@ menu_settings:
       url: '/blog/'
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+    - title: 'Resume'
+      url: '/resume/'
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline: 
 
 hero_settings:
   overlay_opacity: 0.8
 
 post_settings:
   grid_spacing: 10
-
-contact_settings:
-  form_action: ''
-  confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
-  send_button_text: 'Send Message'
 
 social_settings:
   facebook_url: ''
