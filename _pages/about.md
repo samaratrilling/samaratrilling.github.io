@@ -5,4 +5,3 @@ description:
 featured_image: /images/demo/about.jpg
 ---
 
-## Features
