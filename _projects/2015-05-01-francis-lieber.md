@@ -17,7 +17,7 @@ In keeping with my penchant for maps, I also made a [map](https://drive.google.c
 
 ---
 
-You can read the full paper on the [Columbia University and Slavery website](https://columbiaandslavery.columbia.edu/content/tale-two-columbias-francis-lieber-columbia-university-and-slavery), but here it is with its original formatting.
+You can read the full paper on the [Columbia University and Slavery website](https://columbiaandslavery.columbia.edu/content/dam/cuandslavery/seminars/hist-3518/2015-projects/Trilling%202015%20-A%20Tale%20of%20Two%20Columbias.pdf), but here it is with its original formatting.
 
 
 
